@@ -6,6 +6,6 @@ Example:
 I completed the challenge: 5
 I feel good about my code: 4
 
-<img src=“<img width="80%" alt="screenshot" src="https://user-images.githubusercontent.com/47441358/135728934-5232559c-d009-4842-9ba6-6eaaae27d8c6.png">”>
 
+<img width="1272" alt="screenshot" src="https://user-images.githubusercontent.com/47441358/135728956-f1042f65-1f3e-4aa0-95ef-28a916ff3c46.png">
 
