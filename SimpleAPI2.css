@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url("wallwall.png");
+  background-repeat: no-repeat;
+}
+.content {
+  border: 1px solid white;
+  height: 380px;
+  width: 50%;
+  border-radius: 15px;
+  margin: 150px 100px 120px 290px;
+  background-color: rgb(202, 233, 242);
+  opacity: 0.8;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+input {
+  opacity: 1.9;
+  height: 30px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  transition: width 0.4s ease-in-out;
+}
+input[type="text"]:focus {
+  width: 40%;
+}
+button {
+  height: 30px;
+  width: 120px;
+}
+.outCome {
+  margin: 10px 10px 12px;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  height: 100px;
+  width: 90%;
+  font-family: "Source Code Pro", monospace;
+}
+.inputs {
+  margin: 40px;
+}
+h1 {
+  font-size: 32px;
+
+  background-image: linear-gradient(110deg, #0c5737, #64553f7a, #e2285c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
