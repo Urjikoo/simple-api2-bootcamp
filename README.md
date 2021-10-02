@@ -7,5 +7,6 @@ I completed the challenge: 5
 I feel good about my code: 4
 
 
-<img width="1272" alt="screenshot" src="https://user-images.githubusercontent.com/47441358/135728956-f1042f65-1f3e-4aa0-95ef-28a916ff3c46.png">
+<img src=“screenshot.png” width=90%>
+
 
